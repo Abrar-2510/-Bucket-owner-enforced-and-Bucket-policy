@@ -1,4 +1,3 @@
-# -Bucket-owner-enforced-and-Bucket-policy
 # FrogTech S3 Bucket Deployment
 
 This README outlines the deployment of a simple S3 bucket structure for FrogTech. The solution includes creating an S3 bucket with versioning enabled, setting ownership controls, creating an IAM user, and applying necessary permissions.
